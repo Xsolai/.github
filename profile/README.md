@@ -41,9 +41,10 @@ A passionate AI engineer and visionary entrepreneur with deep expertise in machi
 
 ## 🧑‍💻 Core Team
 
-- 🧑‍💻 **Aftab Ahmad** – ML Engineer (CV & NLP)
+
 - 👩‍💻 **Saba Saeed** – Data Scientist / AI Engineer
-- 🧑‍💻 **Jalal Jahangir** – ML & Cloud Computing Specialist
+- 🧑‍💻 **Aftab Ahmad** – ML Engineer (CV & NLP)
+- 🧑‍💻 **Hamza Satti** – ML & CV Specialist
 - 👨‍💼 **Ali Hasnain** – AI Lead & Big Data Expert
 
 ---
