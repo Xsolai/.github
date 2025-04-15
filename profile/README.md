@@ -37,6 +37,14 @@ We provide a wide range of AI-driven solutions:
 *Founder & CEO of Xsol AI*  
 A passionate AI engineer and visionary entrepreneur with deep expertise in machine learning, data engineering, and enterprise AI transformation. Ahsan has previously worked with Huawei, Fiverr, and Saincube, and now leads a growing team committed to intelligent innovation.
 
+🔗 **Connect with Ahsan:**
+
+- [LinkedIn](https://www.linkedin.com/in/engrahsaninam)
+- [Twitter/X](https://twitter.com/engrahsaninam)
+- [GitHub](https://github.com/engrahsaninam)
+- [Instagram](https://instagram.com/engrahsaninam)
+- [Facebook](https://facebook.com/engrahsaninam)
+  
 ---
 
 ## 🧑‍💻 Core Team
