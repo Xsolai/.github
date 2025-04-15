@@ -1,10 +1,10 @@
-<h1 align="center">
-  🧠 Xsol AI
-</h1>
-
 <p align="center">
-  <i>Empowering the future with smart, scalable, and human-centered AI solutions.</i>
+  <img src="https://github.com/Xsolai/.github/blob/main/profile/logo.png" alt="Xsol AI Logo" width="120"/>
 </p>
+
+<h1 align="center">
+  Xsol AI
+</h1>
 
 ---
 
