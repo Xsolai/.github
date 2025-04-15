@@ -68,6 +68,6 @@ A passionate AI engineer and visionary entrepreneur with deep expertise in machi
 ---
 
 <p align="center">
-  <img src="https://github.com/thexsolai.png" width="100" alt="Xsol AI Logo"/><br>
+  <img src="profile/logo.png" width="100" alt="Xsol AI Logo"/><br>
   <b>Xsol AI</b> — Smart Solutions. Simple Impact.
 </p>
